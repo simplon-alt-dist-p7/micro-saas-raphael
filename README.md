@@ -36,6 +36,6 @@ Créer des groupes de créatures pour chaque combat (en gros, créé des listes 
 
 # Stack technique
 
-Frontend : PHP
+Frontend : PHP (pour le web, référencement)
 Backend : Node.js
 Base de données : PostgreSQL
