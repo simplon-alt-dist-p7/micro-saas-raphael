@@ -33,3 +33,9 @@ Créer des groupes de créatures pour chaque combat (en gros, créé des listes 
 
 # Zoning / Wireframes légers
 ![Zoning](./zoning.png)
+
+# Stack technique
+
+Frontend : PHP
+Backend : Node.js
+Base de données : PostgreSQL
