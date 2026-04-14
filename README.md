@@ -9,6 +9,11 @@ Slogan : La bibliothèque personnalisée pour les maitres du jeu
 
 Couleurs principales
 ![Charte graphique](./charte-graphique-couleurs.png)
+
+Police d'écriture : à définir
+
+Ambiance visuelle choisie : chaleureux, rougeoyant
+
 # Expression des besoins
 
 ## Problème clairement défini : 
@@ -25,3 +30,6 @@ Créer son répertoire privé de créatures à utiliser, en sélectionnant parmi
 
 ## Fonctionnalité secondaire : 
 Créer des groupes de créatures pour chaque combat (en gros, créé des listes personnelles pour trier les créatures)
+
+# Zoning / Wireframes légers
+![Zoning](./zoning.png)
