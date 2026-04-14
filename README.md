@@ -5,6 +5,10 @@ Logo : à venir
 
 Slogan : La bibliothèque personnalisée pour les maitres du jeu
 
+# Charte graphiques
+
+Couleurs principales
+![Charte graphique](./charte-graphique-couleurs.png)
 # Expression des besoins
 
 ## Problème clairement défini : 
